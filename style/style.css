@@ -44,9 +44,14 @@ header {
     width: 13%;
     height: 3px;
     border-radius: 1.5px;
-    background-color: #fff;
     vertical-align: middle;
     margin: 0 15px;
+}
+.bar-white {
+    background-color: #fff;
+}
+.bar-black {
+    background-color: #000;
 }
 .hero span {
     font-size: 21px;
@@ -54,6 +59,22 @@ header {
 /*---------- 
    /HERO
 ----------*/
+/*----------- 
+  PORTFOLIO
+-----------*/
+.portfolio-container {
+    padding: 50px 0;
+}
+.portfolio-claim, .row-image-portfolio {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.black-star {
+    color: #000;
+}
+/*----------- 
+ /PORTFOLIO
+-----------*/
 /*---------- 
    /MAIN 
 ----------*/
