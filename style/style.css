@@ -81,6 +81,9 @@ header {
 .black-star {
     color: #000;
 }
+.row-image-portfolio img {
+    margin-bottom: 20px;
+}
 /*----------- 
  /PORTFOLIO
 -----------*/
